@@ -1,6 +1,8 @@
 # Multi-Dimensional-Image-Browser
 Python script (Python 2.7, uses PIL and TKinter) to allow image browsing across multiple dimensions indicated in the images' file names.
 
+![Screenshot](/mdib.png)
+
 This has made the analysis of some visual data a little easier for me. Rather than browsing through image files in alphabetical order, this script allows them to be browsed through in a multi-dimensional fashion. Take for example the following files:
 
 ```
@@ -25,5 +27,3 @@ be controlled by the arrow keys.
 Dimensions are numbered in the order that they appear in the file names.
 
 Keyboard shortcuts include shift+D to set the directory, and shift+P for the pattern. Enter applies, escape exits.
-
-![Screenshot](/mdib.png)
