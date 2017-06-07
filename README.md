@@ -25,3 +25,5 @@ be controlled by the arrow keys.
 Dimensions are numbered in the order that they appear in the file names.
 
 Keyboard shortcuts include shift+D to set the directory, and shift+P for the pattern. Enter applies, escape exits.
+
+![Screenshot](/mdib.png)
