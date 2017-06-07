@@ -1,0 +1,5 @@
+
+Changelog Multi-Dimensional Image Browser
+
+1.01 2015-06-04
+- Removed makeCanvas(); canvas is now drawn only once
