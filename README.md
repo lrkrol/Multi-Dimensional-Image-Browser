@@ -1,6 +1,8 @@
 # Multi-Dimensional-Image-Browser
 Python script (Python 2.7, uses PIL and TKinter) to allow image browsing across multiple dimensions indicated in the images' file names.
 
+Note: A new [browser-based multi-dimensional image browser](https://mdib.lrk.tools) is now available online and on [GitHub](https://github.com/lrkrol/MDIB-JS). This repository concerns the old Python version.
+
 ![Screenshot](/mdib.png)
 
 This has made the analysis of some visual data a little easier for me. Rather than browsing through image files in alphabetical order, this script allows them to be browsed through in a multi-dimensional fashion. Take for example the following files:
